@@ -680,3 +680,10 @@ a {
         margin: auto;
     }
 
+    .modal-window-checkbox-input: checked {
+        background-color: #404bbf;
+        border: none;
+        fill: #F4F4FD;
+    }
+        
+
